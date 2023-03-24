@@ -103,8 +103,7 @@ namespace DungeonAdventures.Services
                     case 3:
                         break;
                 }
-            } while (choice != 3
-            );
+            } while (choice != 3);
         }
     }
 }
